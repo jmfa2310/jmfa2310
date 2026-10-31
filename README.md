@@ -54,17 +54,61 @@ My professional background is grounded in **OutSystems (Reactive Web, Traditiona
 
 </div>
 
-## 🔥 Selected projects
+## 🔥 Featured projects
 
-| Project | Overview | Technologies |
-| :--- | :--- | :--- |
-| **[FUTRYVA](https://github.com/jmfa2310/Frutryva)** | Multi-club, multi-sport SaaS platform **under active development**, with club branding, identities and administrative workflows. | Go · React · TypeScript · PostgreSQL · Docker |
-| **[NFC MABS10](https://github.com/jmfa2310/nfc_mabs10)** | Exploration and implementation work around NFC and MABS10 device integration. | NFC · Integrations |
-| **[InsightFace API](https://github.com/jmfa2310/insightface-api)** | API-focused exploration of face analysis and recognition technologies. | Python · APIs · Computer Vision |
-| **[Personal Portfolio](https://github.com/jmfa2310/Joao_Antunes_Portofolio)** | My personal developer portfolio and public project showcase. | Web · UI/UX |
-| **[Futsal Tournament](https://github.com/jmfa2310/TorneioFutsal2026)** | Project associated with a 2026 futsal tournament. | Web development |
+A selection of products, technical integrations and platforms I've been developing. Some repositories are private to protect project code, client work and sensitive implementation details.
 
-> Some professional and client projects are private. This profile showcases selected public work rather than client source code.
+### 🦌 Clube de Caça e Pesca de Almeida — Association Management Platform
+**React · Go · MySQL · Docker · PWA**
+
+Full-stack web application for a hunting and fishing association, including member management, digital membership cards, hunting/fishing licence documentation, events and registrations, payments and dedicated administration workflows.
+
+*Private repository — project overview only; source code is not publicly shared.*
+
+### 📱 Offline FaceID for OutSystems — Native Mobile Integration
+**OutSystems Mobile · Cordova · Android · iOS · JavaScript · Computer Vision**
+
+Native mobile plugin integration for offline facial capture and matching in OutSystems applications, including timed camera capture and on-device recognition workflows. Built around mobile integration and offline operation.
+
+*Private repository — project overview only; no biometric data or internal implementation shared.*
+
+### 📊 JA IA TRADER — Personal Market Analysis Platform
+**Python · FastAPI · PostgreSQL · Redis · Docker · Telegram · Windows Desktop**
+
+Personal application for tracking investment portfolios and analyzing equities, ETFs and cryptocurrencies. Combines market data, automated analysis, risk signals and notifications.
+
+*Private project — analysis and paper trading only; no real trade execution.*
+
+### ⚽ [FUTRYVA — Multi-Sport SaaS](https://github.com/jmfa2310/Frutryva)
+**Go · React · TypeScript · PostgreSQL · Docker**
+
+Multi-club platform under active development for football, futsal, volleyball, basketball and handball. Includes club management and configurable club visual identity, with additional coaching and sports modules planned.
+
+### 🔌 [NFC MABS10 — Device Integration](https://github.com/jmfa2310/nfc_mabs10)
+**NFC · Hardware Integration · Application Development**
+
+Integration-oriented project focused on NFC communication and MABS10 devices.
+
+### 🧠 [InsightFace API — Computer Vision](https://github.com/jmfa2310/insightface-api)
+**Python · API Development · Face Recognition**
+
+API-based experimentation with facial recognition, image analysis and computer vision workflows.
+
+### 🌐 [Developer Portfolio](https://github.com/jmfa2310/Joao_Antunes_Portofolio)
+**Web Development · UI/UX**
+
+Personal portfolio presenting my development experience, technical skills and projects. **[View live website](https://jmfa2310.github.io/Joao_Antunes_Portofolio/)**.
+
+### 🏆 [Futsal Tournament 2026](https://github.com/jmfa2310/TorneioFutsal2026)
+**Web Development**
+
+Web project created around a futsal tournament.
+
+## 💼 Enterprise development
+
+My professional experience includes building **OutSystems Reactive Web, Traditional Web and Mobile** solutions, integrating **REST APIs, JavaScript and SQL**, and contributing to enterprise applications for projects involving **Grupo ACA** and **Rangel**.
+
+> Professional and personal projects with private repositories are shown as high-level case studies. Confidential source code, credentials, client data and biometric information are not published here.
 
 ## 🎯 What I'm focused on
 
