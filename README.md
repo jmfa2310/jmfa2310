@@ -56,53 +56,18 @@ My professional background is grounded in **OutSystems (Reactive Web, Traditiona
 
 ## 🔥 Featured projects
 
-A selection of products, technical integrations and platforms I've been developing. Some repositories are private to protect project code, client work and sensitive implementation details.
+| Project | Overview | Technologies |
+| :--- | :--- | :--- |
+| **🦌 Clube de Caça e Pesca de Almeida** 🔒 | Full-stack association app: member management, digital cards, hunting/fishing licences, events, registrations and administration. | React · Go · MySQL · Docker · PWA |
+| **📱 Offline FaceID for OutSystems** 🔒 | Native Android/iOS integration for offline facial capture and matching in OutSystems Mobile, including timed capture. | OutSystems · Cordova · JavaScript · Android · iOS |
+| **📊 JA IA TRADER** 🔒 | Personal platform for portfolio tracking and market analysis across stocks, ETFs and crypto, with bots and alerts. **Analysis/paper trading only.** | Python · FastAPI · PostgreSQL · Redis · Docker · Telegram |
+| **[⚽ FUTRYVA](https://github.com/jmfa2310/Frutryva)** | Multi-club, multi-sport SaaS **in development**, with configurable club branding and management workflows. | Go · React · TypeScript · PostgreSQL · Docker |
+| **[🔌 NFC MABS10](https://github.com/jmfa2310/nfc_mabs10)** | NFC and MABS10 device integration project. | NFC · Device integrations |
+| **[🧠 InsightFace API](https://github.com/jmfa2310/insightface-api)** | API exploration of facial recognition and computer vision. | Python · APIs · Computer Vision |
+| **[🌐 Personal Portfolio](https://github.com/jmfa2310/Joao_Antunes_Portofolio)** | Personal developer portfolio and project showcase. [Live website](https://jmfa2310.github.io/Joao_Antunes_Portofolio/). | Web · UI/UX |
+| **[🏆 Futsal Tournament 2026](https://github.com/jmfa2310/TorneioFutsal2026)** | Web project associated with a futsal tournament. | Web Development |
 
-### 🦌 Clube de Caça e Pesca de Almeida — Association Management Platform
-**React · Go · MySQL · Docker · PWA**
-
-Full-stack web application for a hunting and fishing association, including member management, digital membership cards, hunting/fishing licence documentation, events and registrations, payments and dedicated administration workflows.
-
-*Private repository — project overview only; source code is not publicly shared.*
-
-### 📱 Offline FaceID for OutSystems — Native Mobile Integration
-**OutSystems Mobile · Cordova · Android · iOS · JavaScript · Computer Vision**
-
-Native mobile plugin integration for offline facial capture and matching in OutSystems applications, including timed camera capture and on-device recognition workflows. Built around mobile integration and offline operation.
-
-*Private repository — project overview only; no biometric data or internal implementation shared.*
-
-### 📊 JA IA TRADER — Personal Market Analysis Platform
-**Python · FastAPI · PostgreSQL · Redis · Docker · Telegram · Windows Desktop**
-
-Personal application for tracking investment portfolios and analyzing equities, ETFs and cryptocurrencies. Combines market data, automated analysis, risk signals and notifications.
-
-*Private project — analysis and paper trading only; no real trade execution.*
-
-### ⚽ [FUTRYVA — Multi-Sport SaaS](https://github.com/jmfa2310/Frutryva)
-**Go · React · TypeScript · PostgreSQL · Docker**
-
-Multi-club platform under active development for football, futsal, volleyball, basketball and handball. Includes club management and configurable club visual identity, with additional coaching and sports modules planned.
-
-### 🔌 [NFC MABS10 — Device Integration](https://github.com/jmfa2310/nfc_mabs10)
-**NFC · Hardware Integration · Application Development**
-
-Integration-oriented project focused on NFC communication and MABS10 devices.
-
-### 🧠 [InsightFace API — Computer Vision](https://github.com/jmfa2310/insightface-api)
-**Python · API Development · Face Recognition**
-
-API-based experimentation with facial recognition, image analysis and computer vision workflows.
-
-### 🌐 [Developer Portfolio](https://github.com/jmfa2310/Joao_Antunes_Portofolio)
-**Web Development · UI/UX**
-
-Personal portfolio presenting my development experience, technical skills and projects. **[View live website](https://jmfa2310.github.io/Joao_Antunes_Portofolio/)**.
-
-### 🏆 [Futsal Tournament 2026](https://github.com/jmfa2310/TorneioFutsal2026)
-**Web Development**
-
-Web project created around a futsal tournament.
+> 🔒 Private project: only a high-level overview is shared. Source code, sensitive data and client information remain private.
 
 ## 💼 Enterprise development
 
