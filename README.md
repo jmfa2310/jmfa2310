@@ -71,7 +71,7 @@ My professional background is grounded in **OutSystems (Reactive Web, Traditiona
 
 ## 💼 Enterprise development
 
-My professional experience includes building **OutSystems Reactive Web, Traditional Web and Mobile** solutions, integrating **REST APIs, JavaScript and SQL**, and contributing to enterprise applications for projects involving **Grupo ACA** and **Rangel**.
+My professional experience includes building **OutSystems Reactive Web, Traditional Web and Mobile** solutions, integrating **REST APIs, JavaScript and SQL**.
 
 > Professional and personal projects with private repositories are shown as high-level case studies. Confidential source code, credentials, client data and biometric information are not published here.
 
